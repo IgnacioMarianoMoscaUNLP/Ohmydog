@@ -1,0 +1,1 @@
+El trabajo es una copia de lo realizado en 2022 en una materia de la facultad con el grupo. El repositorio donde se realizo fue cerrado por la facultad, ya que dieron cuentas de gitlab para poder realizarlo.
